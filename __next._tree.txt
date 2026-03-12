@@ -1,0 +1,8 @@
+:HL["/-Cac-Thanh-Doi-Dien-Buon-Chan/_next/static/chunks/d89d0343b0252cc1.css","style"]
+:HL["/-Cac-Thanh-Doi-Dien-Buon-Chan/_next/static/media/3c285486269019b7-s.p.f6eddd95.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/-Cac-Thanh-Doi-Dien-Buon-Chan/_next/static/media/6f42e0a3b0519c4d-s.p.7183773d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/-Cac-Thanh-Doi-Dien-Buon-Chan/_next/static/media/8f46d218c8f79e34-s.p.12435988.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/-Cac-Thanh-Doi-Dien-Buon-Chan/_next/static/media/9d978ba009f47915-s.p.cb5dc5cb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/-Cac-Thanh-Doi-Dien-Buon-Chan/_next/static/media/a4f4f75ad654963f-s.p.bab09490.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/-Cac-Thanh-Doi-Dien-Buon-Chan/_next/static/media/b4e85636e2ca4056-s.p.9ecc21d7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"buildId":"7NCE4YB70prQfYnZKrnU4","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
