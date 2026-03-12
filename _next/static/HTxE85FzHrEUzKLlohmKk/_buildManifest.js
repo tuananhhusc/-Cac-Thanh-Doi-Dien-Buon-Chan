@@ -1,7 +1,12 @@
 self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/-Cac-Thanh-Doi-Dien-Buon-Chan//_next/:path+",
+        "destination": "/-Cac-Thanh-Doi-Dien-Buon-Chan/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [
